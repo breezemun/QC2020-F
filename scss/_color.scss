@@ -1,0 +1,27 @@
+//Alpha Default
+$alpha: 0.2;
+
+// default Color
+$cherryblossom: #ff66b2 !default; //
+$cimentgray: #a0a0a0 !default; //
+$madarin: #ff8c00 !default; //
+$rokagreen: #006633 !default; //
+$eastblue: #1e90ff !default; //
+$redsun: #ff0000 !default; //
+$goldkiwi: #ffff00 !default; //
+$zandi: #00fa9a !default; //
+
+// Black & White
+$black: #000000 !default;
+$white: #ffffff !default;
+
+$default-colors: (
+  "cherryblossom": $cherryblossom,
+  "cimengray": $cimentgray,
+  "mandarin": $mandarin,
+  "rokagreen": $rokagreen,
+  "eastblue": $eastblue,
+  "redsun": $redsun,
+  "goldkiwi": $goldkiwi,
+  "zandi": $zandi,
+);
